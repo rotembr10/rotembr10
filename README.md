@@ -1,4 +1,7 @@
 # Hi there 👋
+## 📫 How to reach me: 
+## gmail: rotembr10@gmail.com
+## linkedin: https://www.linkedin.com/in/rotem-brooks
 
 
 <!--
