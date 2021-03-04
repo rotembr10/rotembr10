@@ -1,7 +1,16 @@
 # Hi there 👋
-### 📫 How to reach me: 
-### gmail: rotembr10@gmail.com
-### linkedin: https://www.linkedin.com/in/rotem-brooks
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/rotem-brooks
+
 
 
 <!--
@@ -14,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-## 📫 How to reach me: 
+## 📫 you can  reach me: 
 ## gmail: rotembr10@gmail.com
 ## linkedin: https://www.linkedin.com/in/rotem-brooks
 
