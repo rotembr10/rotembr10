@@ -1,5 +1,5 @@
 # Hi there 👋
-### 📫 you can reach to me: 
+### 📫 you can reach me: 
 ### gmail: rotembr10@gmail.com
 ### linkedin: https://www.linkedin.com/in/rotem-brooks
 
