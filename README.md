@@ -1,6 +1,6 @@
 # Hi there 👋
 ### My name is Rotem, Mathematics and Computer Science graduate from Tel Aviv University.
-### looking for a software junior position. 
+### Looking for a software junior position. 
 ### 📫 you can reach me: 
 ### gmail: rotembr10@gmail.com
 ### linkedin: https://www.linkedin.com/in/rotem-brooks
