@@ -1,6 +1,5 @@
 # Hi there 👋
-### My name is Rotem, Mathematics and Computer Science graduate from Tel Aviv University.
-### Looking for a software junior position. 
+### My name is Rotem, a Software Engineer, passionate about algorithms and problem-solving. I obtained my B.Sc in Mathematics and Computer Science from Tel Aviv University, and currently focus on Backend development.
 ### 📫 you can reach me: 
 ### gmail: rotembr10@gmail.com
 ### linkedin: https://www.linkedin.com/in/rotem-brooks
